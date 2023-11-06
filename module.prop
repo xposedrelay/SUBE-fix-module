@@ -1,0 +1,7 @@
+id=SUBE-fix-moto
+name=SUBE fix for Motorola
+version=v1
+versionCode=1
+author=xp0sed_relay
+description=Tested with xpeng but not other Motos
+minMagisk=1500
